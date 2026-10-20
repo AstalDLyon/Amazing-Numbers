@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="25">
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-classes-java.main" target="23" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-annotationProcessor-java.main" target="23" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-generated-sources-headers-java.main" target="23" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-reports-tests.main" target="23" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-test-results.main" target="23" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task-build-tmp.main" target="23" />
+      <module name="Amazing_Numbers.Amazing_Numbers-task.main" target="23" />
+      <module name="Amazing_Numbers.util.main" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

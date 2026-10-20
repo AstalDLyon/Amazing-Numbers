@@ -1,0 +1,28 @@
+type: edu
+files:
+  - name: src/numbers/Main.java
+    visible: true
+    learner_created: false
+  - name: test/util/Checker.java
+    learner_created: false
+  - name: test/util/LinesChecker.java
+    learner_created: false
+  - name: test/util/RegexChecker.java
+    learner_created: false
+  - name: test/util/TextChecker.java
+    learner_created: false
+  - name: test/util/UserProgram.java
+    learner_created: false
+  - name: test/BuzzChecker.java
+    learner_created: false
+  - name: test/NumbersTest.java
+    learner_created: false
+  - name: src/numbers/properties/BuzzNumber.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/184/stages/931/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 20 Oct 2026 15:56:19 UTC"
+record: -1
